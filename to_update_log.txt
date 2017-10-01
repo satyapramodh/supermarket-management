@@ -1,0 +1,15 @@
+password in settings to md5
+
+settings page error
+logo update
+edit/del prod,customer,supplier,employee
+selling stats
+employee stats(times)
+transaction validate
+emp dob age validate
+transaction of customer(unregistered) possible
+
+///data analysis
+if searched for a product add interest rate
+regional product interests
+recommend according to genre, other similarities

@@ -1,0 +1,8 @@
+1)Create a SQL database and import estore.sql to phpmyadmin
+2)phpmyadmin 
+id: root
+password: root
+3)Logins:
+
+owner:owner (admin)
+ram:ram (Employee)
